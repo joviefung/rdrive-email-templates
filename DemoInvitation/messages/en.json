@@ -1,0 +1,12 @@
+{
+    "mailSubject": "Your RDrive demo account is ready",
+    "welcomeToRDrive": "Welcome to RDrive",
+    "hi": "Hi {{userName}},",
+    "yourProject": "You have been added to RDrive project {{projectName}}.",
+    "yourUsername": "Your username is {{email}}",
+    "loginDescription": "If you already know your password, click below to login.",
+    "login": "Login",
+    "setNewPasswordDescription": "If you have not set or forgot your password, click the button below.",
+    "setNewPassword": "Set new password",
+    "qrCodeDescription": "Scan following QR code to get the company URL used in RDrive application."
+}
