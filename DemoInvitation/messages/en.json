@@ -1,5 +1,5 @@
 {
-    "mailSubject": "Your RDrive demo account is ready",
+    "mailSubject": "Rdrive account details",
     "welcomeToRDrive": "Welcome to RDrive",
     "hi": "Hi {{userName}},",
     "yourProject": "You have been added to RDrive project {{projectName}}.",

@@ -1,0 +1,12 @@
+{
+    "mailSubject": "Rdrive account details",
+    "welcomeToRDrive": "Welkom bij Rdrive",
+    "hi": "Hai {{userName}},",
+    "yourProject": "Je bent toegevoegd aan RDrive-project {{projectName}}.",
+    "yourUsername": "Uw gebruikersnaam is {{email}}",
+    "loginDescription": "Als je je wachtwoord al weet, klik dan hieronder om in te loggen.",
+    "login": "Log in",
+    "setNewPasswordDescription": "Als je jouw wachtwoord niet hebt ingesteld of bent vergeten, klik je op de onderstaande knop.",
+    "setNewPassword": "Stel nieuw wachtwoord in",
+    "qrCodeDescription": "Scan de volgende QR-code om de bedrijfs-URL te krijgen die wordt gebruikt in de RDrive-applicatie."
+}
