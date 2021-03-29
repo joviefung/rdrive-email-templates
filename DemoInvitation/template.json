@@ -1,1 +1,4 @@
-{"mailSubject":"${mailSubject}1","mailText":""}
+{
+    "mailSubject": "${mailSubject}",
+    "mailText": ""
+}
