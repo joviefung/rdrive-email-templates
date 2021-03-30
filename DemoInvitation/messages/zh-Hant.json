@@ -1,7 +1,7 @@
 {
     "mailSubject": "RDrive帳戶資料",
-    "welcomeToRdrive": "",
-    "hi": "",
+    "welcomeToRdrive": "歡迎使用RDrive",
+    "hi": "{{username}}你好",
     "yourProject": "",
     "yourUsername": "",
     "loginDescription": "",
