@@ -5,8 +5,8 @@
     "yourProject": "",
     "yourUsername": "",
     "loginDescription": "",
-    "login": "",
+    "login": "登入",
     "setNewPasswordDescription": "",
-    "setNewPassword": "",
+    "setNewPassword": "設定新密碼",
     "qrCodeDescription": ""
 }
