@@ -1,10 +1,10 @@
 {
     "mailSubject": "RDrive帳戶資料",
     "welcomeToRdrive": "歡迎使用RDrive",
-    "hi": "{{username}}你好",
-    "yourProject": "你已被加入到工程項目{{projectName}}",
+    "hi": "{{username}}您好，",
+    "yourProject": "",
     "yourUsername": "",
-    "loginDescription": "",
+    "loginDescription": "若您已經知道你的登入密碼，請按此登入。",
     "login": "登入",
     "setNewPasswordDescription": "",
     "setNewPassword": "設定新密碼",
