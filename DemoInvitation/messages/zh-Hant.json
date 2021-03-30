@@ -3,7 +3,7 @@
     "welcomeToRdrive": "歡迎使用RDrive",
     "hi": "{{username}}您好，",
     "yourProject": "",
-    "yourUsername": "",
+    "yourUsername": "您的登入用戶名稱是{{email}}",
     "loginDescription": "若您已經知道你的登入密碼，請按此登入。",
     "login": "登入",
     "setNewPasswordDescription": "",
