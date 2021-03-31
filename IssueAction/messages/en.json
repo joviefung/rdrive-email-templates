@@ -1,5 +1,5 @@
 {
     "creation": "Created on {{createdDate}} by {{createdBy}}",
     "viewIssue": "View Issue",
-    "unsubscribeDescription": "If you do not want to receive email notifications, you can </span><a href="{{muteUrl}}">mute</a><span> this issue or </span><a href="{{unsubscribeUrl}}">unsubscribe</a><span> from all upcoming notifications that match the subscription rule."
+    "unsubscribeDescription": "If you do not want to receive email notifications, you can </span><a href=\"{{muteUrl}}\">mute</a><span> this issue or </span><a href=\"{{unsubscribeUrl}}\">unsubscribe</a><span> from all upcoming notifications that match the subscription rule."
 }

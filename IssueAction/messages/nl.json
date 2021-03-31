@@ -1,5 +1,5 @@
 {
     "creation": "Created on {{createdDate}} by {{createdBy}}",
     "viewIssue": "Bekijk actiepunt",
-    "unsubscribeDescription": "Als je geen e-mailmeldingen wilt ontvangen, kun je dit probleem negeren of </span><a href="{{unsubscribeUrl}}">je afmelden</a><span> voor alle aankomende meldingen die overeenkomen met de abonnementsregel."
+    "unsubscribeDescription": "Als je geen e-mailmeldingen wilt ontvangen, kun je dit probleem negeren of </span><a href=\"{{unsubscribeUrl}}\">je afmelden</a><span> voor alle aankomende meldingen die overeenkomen met de abonnementsregel."
 }
