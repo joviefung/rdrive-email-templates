@@ -1,5 +1,5 @@
 {
-    "mailSubject": "Jouw RDrive-demo-account is klaar",
+    "mailSubject": "Jouw RDrive-demo-account is klaar ",
     "welcomeToRDrive": "Welkom bij Rdrive",
     "hi": "Hai {{userName}},",
     "yourDemoProject": "Een nieuw RDrive-demoproject {{projectName}} staat voor je klaar. Het project is 30 dagen beschikbaar.",
