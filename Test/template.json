@@ -1,4 +1,4 @@
 {
-    "mailSubject": "Testing email from RDrive",
+    "mailSubject": "${mailSubject}",
     "mailText": ""
 }
