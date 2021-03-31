@@ -1,3 +1,5 @@
 {
-    "testingEmailFromRDrive": "Testing email from RDrive"
+    "mailSubject": "Testing email from RDrive",
+    "testingEmailFromRDrive": "Testing email from RDrive",
+    "description": "This is just a testing email from RDrive. Please ignore."
 }
