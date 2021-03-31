@@ -1,0 +1,6 @@
+{
+    "mailSubject": "Your RDrive passcode",
+    "rdriveLoginPasscode": "RDrive Login Passcode",
+    "passcodeDescription": "To access your RDrive account, please use the code below to complete login authentication.",
+    "didNotRequestPasscodeDescription": "If you didn't request a code, you should contact admin and change your password."
+}

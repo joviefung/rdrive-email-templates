@@ -1,12 +1,11 @@
 {
-    "mailSubject": "Rdrive account details",
+    "mailSubject": "Jouw RDrive-demo-account is klaar",
     "welcomeToRDrive": "Welkom bij Rdrive",
     "hi": "Hai {{userName}},",
-    "yourProject": "Je bent toegevoegd aan RDrive-project {{projectName}}.",
-    "yourUsername": "Uw gebruikersnaam is {{email}}",
-    "loginDescription": "Als je je wachtwoord al weet, klik dan hieronder om in te loggen.",
-    "login": "Log in",
-    "setNewPasswordDescription": "Als je jouw wachtwoord niet hebt ingesteld of bent vergeten, klik je op de onderstaande knop.",
+    "yourDemoProject": "Een nieuw RDrive-demoproject {{projectName}} staat voor je klaar. Het project is 30 dagen beschikbaar.",
+    "setNewPasswordDescription": "Het wachtwoord van jouw demo-account is demo01. Stel een nieuw wachtwoord in door op de onderstaande knop te klikken.",
     "setNewPassword": "Stel nieuw wachtwoord in",
+    "loginDescription": "Wil je direct inloggen, klik dan hieronder.",
+    "login": "Log in",
     "qrCodeDescription": "Scan de volgende QR-code om de bedrijfs-URL te krijgen die wordt gebruikt in de RDrive-applicatie."
 }

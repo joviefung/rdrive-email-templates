@@ -1,0 +1,4 @@
+{
+    "mailSubject": "{{actionString}} - {{issueClientId}} - {{statusTitle}}",
+    "mailText": ""
+}

@@ -1,0 +1,4 @@
+{
+    "mailSubject": "${reportTitle}",
+    "mailText": ""
+}

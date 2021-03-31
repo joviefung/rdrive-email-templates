@@ -1,0 +1,4 @@
+{
+    "mailSubject": "${someoneHasMentionedYouInAComment}",
+    "mailText": "${someoneHasMentionedYouInAComment}"
+}

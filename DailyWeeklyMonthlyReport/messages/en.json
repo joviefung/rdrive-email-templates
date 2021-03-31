@@ -1,0 +1,4 @@
+{
+    "reportTitle": "{{project}} {{type}} {{frequency}} Report",
+    "generateReport": "Generate report"
+}
