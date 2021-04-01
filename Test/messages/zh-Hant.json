@@ -1,5 +1,5 @@
 {
     "mailSubject": "test",
-    "testingEmailFromRDrive": "",
-    "description": ""
+    "testingEmailFromRDrive": "aaa",
+    "description": "bbb"
 }
