@@ -1,0 +1,6 @@
+{
+    "mailSubject": "RDrive驗證碼",
+    "rdriveLoginPasscode": "RDrive驗證碼",
+    "passcodeDescription": "請在RDrive頁面輸入以下驗證碼以完成雙重認證。",
+    "didNotRequestPasscodeDescription": "若您沒有發出驗證碼請求，請聯絡您的RDrive管理員並更改您的RDrive帳戶密碼。"
+}
