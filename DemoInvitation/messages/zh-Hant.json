@@ -1,0 +1,11 @@
+{
+    "mailSubject": "您的RDrive帳戶已準備好",
+    "welcomeToRDrive": "歡迎使用RDrive",
+    "hi": "{{username}} 您好",
+    "yourDemoProject": "您的示範用RDrive工程項目{{projectName}}已經準備好。您可以試用此工程項目30日。",
+    "setNewPasswordDescription": "您的RDrive帳戶密碼為 demo01 。請按以下按鍵以設定新密碼︰",
+    "setNewPassword": "設定新密碼",
+    "loginDescription": "如您想直接登入，請按以下按鍵︰",
+    "login": "登入",
+    "qrCodeDescription": "掃瞄此QR code以獲取RDrive手機程式中需要輸入的公司網址"
+}
