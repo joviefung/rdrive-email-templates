@@ -1,7 +1,7 @@
 {
     "mailSubject": "Reset your RDrive password",
     "passwordReset": "Password Reset",
-    "resetPasswordDescription": "Your are receiving this email because we received a password reset request of your RDrive account.",
+    "resetPasswordDescription": "You are receiving this email because we received a password reset request of your RDrive account.",
     "resetYourPassword": "Reset Your Password",
     "ignoreDescription": "If you ignore this message, your password won't be changed."
 }
