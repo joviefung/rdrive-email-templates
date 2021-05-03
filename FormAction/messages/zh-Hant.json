@@ -1,0 +1,5 @@
+{
+    "creation": "於 {{createdDate}} 由 {{createdBy}} 創建",
+    "viewForm": "查看表格",
+    "unsubscribeDescription": "若你不想收到電郵通知，你可以 </span><a href=\"{{muteUrl}}\">靜音</a><span> 此表格或 </span><a href=\"{{unsubscribeUrl}}\">取消訂閱</a><span> 所有由訂閱方案發出的通知。"
+}
