@@ -1,0 +1,5 @@
+{
+    "creation": "於 {{createdDate}} 由 {{createdBy}} 創建",
+    "viewIssue": "查看修繕或項目紀錄",
+    "unsubscribeDescription": "若你不想收到電郵通知，你可以 </span><a href=\"{{muteUrl}}\">靜音</a><span> 此修繕或項目紀錄或 </span><a href=\"{{unsubscribeUrl}}\">取消訂閱</a><span> 所有由訂閱方案發出的通知。"
+}
