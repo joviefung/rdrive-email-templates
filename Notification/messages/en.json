@@ -1,3 +1,4 @@
 {
-    "someoneHasMentionedYouInAComment": "{{senderName}} has mentioned you in a comment"
+    "someoneHasMentionedYouInAComment": "{{senderName}} has mentioned you in a comment",
+    "viewItem": "View item"
 }
