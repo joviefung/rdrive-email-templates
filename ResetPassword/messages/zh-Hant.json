@@ -1,0 +1,7 @@
+{
+    "mailSubject": "重設您的RDrive帳戶密碼",
+    "passwordReset": "重設RDrive帳戶密碼",
+    "resetPasswordDescription": "您收到這個電郵因為我們收到了您的重設RDrive帳戶密碼請求。",
+    "resetYourPassword": "重設密碼",
+    "ignoreDescription": "若您忽略這個電郵，您的密碼不會被更改。"
+}
