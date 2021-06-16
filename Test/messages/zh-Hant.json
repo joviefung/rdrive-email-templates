@@ -1,4 +1,5 @@
 {
     "mailSubject": "RDrive的測試郵件",
+    "testingEmailFromRDrive": "RDrive的測試郵件",
     "description": "這是測試郵件。"
 }
