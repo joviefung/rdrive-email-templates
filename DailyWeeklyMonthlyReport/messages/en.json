@@ -1,4 +1,9 @@
 {
     "reportTitle": "{{project}} {{type}} {{frequency}} Report",
-    "generateReport": "Generate report"
+    "generateReport": "Generate report",
+    "issue": "Issue",
+    "form": "Form",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "monthly": "Monthly"
 }
