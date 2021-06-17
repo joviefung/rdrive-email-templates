@@ -1,5 +1,5 @@
 {
     "creation": "Created on {{createdDate}} by {{createdBy}}",
     "viewForm": "Bekijk formulier",
-    "unsubscribeDescription": "Als je geen e-mailmeldingen wilt ontvangen, kun je dit formulier negeren of </span><a href=\"{{unsubscribeUrl}}\">je afmelden</a><span> voor alle aankomende meldingen die overeenkomen met de abonnementsregel."
+    "unsubscribeDescription": "Als je geen e-mailmeldingen wilt ontvangen, kun je dit formulier  </span><a href="{{muteUrl}}">negeren</a><span> of </span><a href="{{unsubscribeUrl}}">je afmelden</a><span> voor alle aankomende meldingen die overeenkomen met de abonnementsregel."
 }
