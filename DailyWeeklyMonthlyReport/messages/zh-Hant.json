@@ -1,4 +1,4 @@
 {
-    "reportTitle": "{{project}} {{type}} {{frequency}}報告",
+    "reportTitle": "{{project}} {{type}}{{frequency}}報告",
     "generateReport": "下載報告"
 }
