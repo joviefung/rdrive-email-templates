@@ -1,4 +1,4 @@
 {
-    "mailSubject": "{{#if comment}}{{senderName}} has mentioned you in {{issueClientId}}{{else}}{{action}} - {{issueClientId}} - {{statusTitle}}{{/if}}",
+    "mailSubject": "{{action}} - {{issueClientId}} - {{statusTitle}}",
     "mailText": ""
 }
