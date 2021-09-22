@@ -1,6 +1,6 @@
 {
     "reportTitle": "{{project}}{{team}}{{type}}{{frequency}}報告",
-    "generateReportAndAcknowledge": "下載報告及",
+    "generateReportAndAcknowledge": "下載報告及確認",
     "filters": "篩選",
     "summary": "摘要",
     "draft": "草稿",
