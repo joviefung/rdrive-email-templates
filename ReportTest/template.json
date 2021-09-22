@@ -1,0 +1,4 @@
+{
+    "mailSubject": "{{#if reportRuleTitle}}{{reportRuleTitle}}{{else}}${reportTitle}{{/if}}",
+    "mailText": ""
+}

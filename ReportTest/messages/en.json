@@ -1,0 +1,13 @@
+{
+    "reportTitle": "{{project}} {{team}} {{type}} {{frequency}} Report",
+    "generateReportAndAcknowledge": "Generate report and acknowledge",
+    "filters": "Filters",
+    "summary": "Summary",
+    "draft": "Draft",
+    "open": "Open",
+    "closed": "Closed",
+    "failed": "Failed",
+    "totalCount": "Total count",
+    "updatedCount": "Updated count",
+    "unsubscribeDescription": "If you do not want to receive this report, you can <a href=\"{{deleteReportRuleUrl}}\" style=\"color: #0068A5;\">remove</a> the report rule that triggers this report."
+}
